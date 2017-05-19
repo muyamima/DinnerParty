@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="clsZone">
+    <Position X="0.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACgAFAAAAQAAABEAAAAAAQAAAAJAAACAAAAAAAABAA=</HashCode>
+      <FileName>clsZone.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="clsTeam">
+    <Position X="4" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAASAAIAAAAwAAAAAABAABIAAAAAAAACAAAAAgAAgAA=</HashCode>
+      <FileName>clsTeam.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="clsMember">
+    <Position X="2.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAEAQAAAAAAEACAIAAAAAAAAA=</HashCode>
+      <FileName>clsMember.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="clsItinerary">
+    <Position X="7.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>clsItinerary.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="clsAddress">
+    <Position X="5.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>clsAddress.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZoneManipulator">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAIAABEBAAAACEAAAAAAAAAAAAAAAAAIBAEAABAAA=</HashCode>
+      <FileName>ZoneManipulator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="NamedPtr" Collapsed="true">
+    <Position X="9.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>strNamedPtr.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
