@@ -3,8 +3,8 @@ Organisational aid for DinnerParties
 
 #### Table of Content
 ---
- * [DinnerParty Definition](https://github.com/muyamima/DinnerParty#1-DinnerParty-Definition)
- * [Procedure](https://github.com/muyamima/DinnerParty#2-Procedure)
+ * [DinnerParty Definition](https://github.com/muyamima/DinnerParty#1-dinnerparty-definition)
+ * [Procedure](https://github.com/muyamima/DinnerParty#2-procedure)
  * [Information handling](https://github.com/muyamima/DinnerParty#3-information-handling)
  * [Appendices](https://github.com/muyamima/DinnerParty#x-appendices)
 
