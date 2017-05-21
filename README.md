@@ -32,7 +32,7 @@ Organisational aid for DinnerParties
   * Potential allergens present at the address. Pets that live there or have visited in the last couple of days.
   * Dietary requirements.
   
-##### 2. Check and Mixing
+##### 2. Information Check
  The applications are read and checked for missing information or duplicates according to:
   * Similar first name and / or last name.
   * Similar address.
@@ -43,6 +43,7 @@ Organisational aid for DinnerParties
   * Remove entry with missing information.
   * Remove duplicate.
  
+##### 3. Mixing
  Special requests and constraints can be specified.
   * Assure certain meetings.
   * Assure certain destinations.
@@ -56,6 +57,21 @@ Organisational aid for DinnerParties
   * Avoid food allergy and dietary requirements accumulation along itineraries.
   * Singles are coupled where possible to make new teams. Left over singles, if present, are attached to random combinatory team if present or random team signup.
   * Left over teams are teamed up with a random team for main course and join random starters and desserts.
+  
+   |Teams cases|Left over Teams|
+   |---|---|
+   |NoTeams % 3 = 0| . . .|
+   |1|\* . .|
+   |2|\* \* .|
+   
+   |Singles cases| Left over singles|
+   |---|---|
+   |NoMembers % 6 = 0| . . .|
+   |1|-. . .|
+   |2|-- . .|
+   |3|---. .|
+   |4|---- .|
+   |5|-----.|
 
 #### 3. Information handling
 ---
